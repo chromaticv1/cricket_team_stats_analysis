@@ -15,6 +15,7 @@ With little modification it can be used for other teams and other formats and ot
 ## Scraping
 Selenium was used to dynamically scrape the match links and the player statistics.
 
+
 ## Wrangling
 Dataset of each of the matches were wrangled to get:
 - Match statistics (Win/Loss/Abandon/Stadium etc) (72 matches)
@@ -22,6 +23,7 @@ Dataset of each of the matches were wrangled to get:
 - Captain statistics
 
 ## Analysis & key findings
+<img width="889" height="786" alt="image" src="https://github.com/user-attachments/assets/c48e67f6-7d67-4fff-aad7-12b8ade9393d" />
 This [Tableau Dashboard](https://public.tableau.com/shared/NZGC7FQHN?:display_count=n&:origin=viz_share_link) exposes the following key findings:
 
 - Bangladesh consistently performs bad vs New Zealand.
