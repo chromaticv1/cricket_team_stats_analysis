@@ -17,8 +17,8 @@ Selenium was used to dynamically scrape the match links and the player statistic
 
 ## Wrangling
 Dataset of each of the matches were wrangled to get:
-- Match statistics (Win/Loss/Abandon/Stadium/VS/)
-- Individual player statistics (Runs/Wickets/Econ etc)
+- Match statistics (Win/Loss/Abandon/Stadium etc) (72 matches)
+- Individual player statistics (Runs/Wickets/Econ etc) (atleast 12 rows per match)
 - Captain statistics
 
 ## Analysis & key findings
