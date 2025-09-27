@@ -1,6 +1,6 @@
 # Cricket Performance Insight
 
-# Motivation
+## Motivation
 To test my data scraping/analysis knowledge and take decisions on international cricket teams and players.
 
 ## Mission
