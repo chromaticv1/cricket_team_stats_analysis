@@ -23,4 +23,3 @@ if should_scrape_scorecards:
 if should_do_wrangling:
     from src import match_stats_wrangler
     from src import player_stats_wrangler
-    from src import tableau_wrangler
